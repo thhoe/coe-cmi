@@ -1,4 +1,4 @@
-# coe-cmi
+# coe-mi
 CAN over Ethernet Monitoring Interface
 
 ### Allgemein  
